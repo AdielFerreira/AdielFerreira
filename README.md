@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AdielFerreira
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning JS and web development focusing on back-end.
-- 📫 You van reach me in my insagram account @eaiadiel. Follow me!
+- 🌱 I’m currently learning Kotlin and mobile development.
+- 📫 You van reach me in my instagram account @eaiadiel
