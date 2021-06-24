@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AdielFerreira
-- 👀 I’m interested in software development, currently learning Kotlin and mobile development.
-- 📫 You van reach me in my instagram account @adielzera
+- 👀 I’m interested in software development, currently learning Kotlin and Android development.
+- 📫 You van reach me in my LinkedIn account  linkedin.com/in/adiel-ferreira-01/
